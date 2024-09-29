@@ -1,5 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Daniel!;" />
+</h1>
+
 # 👨‍💻 About Me:
-🧮 I’m currently working for Frenell Data<br>🎓currently pursuing Bachelor's degree in Electrical Engineering and Information Technology at the University of Applied Sciences Karlsruhe<br>🧠 Machine learning
+🧮 I’m currently working for Frenell Data<br>🎓currently doing Bachelor's degree in Electrical Engineering at the University of Applied Sciences Karlsruhe<br>🧠 I’m currently learning: Machine learning
 
 
 # 💻 Tech Stack:
