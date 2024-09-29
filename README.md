@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🧮 I’m currently working for Frenell Data<br>🧠 Machine learning
+🧮 I’m currently working for Frenell Data<br>🎓currently pursuing Bachelor's degree in Electrical Engineering and Information Technology at the University of Applied Sciences Karlsruhe<br>🧠 Machine learning
 
 
 # 💻 Tech Stack:
