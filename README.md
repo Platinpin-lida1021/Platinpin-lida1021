@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working for Frenell Data<br>🌱 Maschinen learning
+# 👨‍💻 About Me:
+🧮 I’m currently working for Frenell Data<br>🧠 Machine learning
 
 
 # 💻 Tech Stack:
