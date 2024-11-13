@@ -6,7 +6,6 @@
 
 # 👨‍💻 About Me:
 <div align="center">
-🧮 I’m currently working for Frenell Data<br/>
 🎓currently doing Bachelor's degree in Electrical Engineering at the University of Applied Sciences Karlsruhe<br/>
 🧠 I’m currently learning: Machine learning
 </div>
